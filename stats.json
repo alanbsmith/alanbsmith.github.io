@@ -1,0 +1,112 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-about-index-js": [
+      "component---src-pages-about-index-js-3545323ce18f575e2d1d.js",
+      "component---src-pages-about-index-js-3545323ce18f575e2d1d.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-30f9eb4fcd7dcf840242.js",
+      "component---src-pages-index-js-30f9eb4fcd7dcf840242.js.map"
+    ],
+    "component---src-pages-speaking-index-js": [
+      "component---src-pages-speaking-index-js-1e6e085c03ee49b31833.js",
+      "component---src-pages-speaking-index-js-1e6e085c03ee49b31833.js.map"
+    ],
+    "path---writing-index": [
+      "path---writing-index-a0e39f21c11f6a62c5ab.js",
+      "path---writing-index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---open-source": [
+      "path---open-source-a0e39f21c11f6a62c5ab.js",
+      "path---open-source-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---home-index": [
+      "path---home-index-a0e39f21c11f6a62c5ab.js",
+      "path---home-index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about-index": [
+      "path---about-index-a0e39f21c11f6a62c5ab.js",
+      "path---about-index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---home": [
+      "path---home-a0e39f21c11f6a62c5ab.js",
+      "path---home-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-5726c8336d411848d011.js",
+      "component---src-layouts-index-js-5726c8336d411848d011.js.map"
+    ],
+    "component---src-pages-recipes-index-js": [
+      "component---src-pages-recipes-index-js-665f6de1cfbea68251af.js",
+      "component---src-pages-recipes-index-js-665f6de1cfbea68251af.js.map"
+    ],
+    "component---src-pages-home-index-js": [
+      "component---src-pages-home-index-js-c16fcd0b77977dd12982.js",
+      "component---src-pages-home-index-js-c16fcd0b77977dd12982.js.map"
+    ],
+    "path---design": [
+      "path---design-a0e39f21c11f6a62c5ab.js",
+      "path---design-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---recipes": [
+      "path---recipes-a0e39f21c11f6a62c5ab.js",
+      "path---recipes-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---speaking": [
+      "path---speaking-a0e39f21c11f6a62c5ab.js",
+      "path---speaking-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---writing": [
+      "path---writing-a0e39f21c11f6a62c5ab.js",
+      "path---writing-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-793f350ab5258449efa4.js",
+      "commons-793f350ab5258449efa4.js.map"
+    ],
+    "path---recipes-index": [
+      "path---recipes-index-a0e39f21c11f6a62c5ab.js",
+      "path---recipes-index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-design-index-js": [
+      "component---src-pages-design-index-js-77f2096ef8ea2d1e17a7.js",
+      "component---src-pages-design-index-js-77f2096ef8ea2d1e17a7.js.map"
+    ],
+    "path---design-index": [
+      "path---design-index-a0e39f21c11f6a62c5ab.js",
+      "path---design-index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-db8aef93c78ed04fe39c.js",
+      "app-db8aef93c78ed04fe39c.js.map"
+    ],
+    "path---speaking-index": [
+      "path---speaking-index-a0e39f21c11f6a62c5ab.js",
+      "path---speaking-index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-writing-index-js": [
+      "component---src-pages-writing-index-js-497e8d6c4b27787113d9.js",
+      "component---src-pages-writing-index-js-497e8d6c4b27787113d9.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-open-source-index-js": [
+      "component---src-pages-open-source-index-js-d80f255906efdccc88a6.js",
+      "component---src-pages-open-source-index-js-d80f255906efdccc88a6.js.map"
+    ],
+    "path---open-source-index": [
+      "path---open-source-index-a0e39f21c11f6a62c5ab.js",
+      "path---open-source-index-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
