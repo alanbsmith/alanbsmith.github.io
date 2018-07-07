@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "develop": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alan B Smith <a.bax.smith@gmail.com> (https://github.com/alanbsmith)",
@@ -28,6 +29,7 @@
     "@mdx-js/loader": "^0.13.1-1",
     "@mdx-js/mdx": "^0.13.1-1",
     "gatsby": "^1.9.273",
+    "gh-pages": "^1.2.0",
     "loader-utils": "^1.1.0"
   }
 }
