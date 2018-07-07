@@ -12,10 +12,6 @@
       "component---src-pages-speaking-index-js-1e6e085c03ee49b31833.js",
       "component---src-pages-speaking-index-js-1e6e085c03ee49b31833.js.map"
     ],
-    "path---writing-index": [
-      "path---writing-index-a0e39f21c11f6a62c5ab.js",
-      "path---writing-index-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "path---open-source": [
       "path---open-source-a0e39f21c11f6a62c5ab.js",
       "path---open-source-a0e39f21c11f6a62c5ab.js.map"
@@ -23,14 +19,6 @@
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
-    ],
-    "path---home-index": [
-      "path---home-index-a0e39f21c11f6a62c5ab.js",
-      "path---home-index-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---about-index": [
-      "path---about-index-a0e39f21c11f6a62c5ab.js",
-      "path---about-index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---home": [
       "path---home-a0e39f21c11f6a62c5ab.js",
@@ -72,25 +60,13 @@
       "commons-793f350ab5258449efa4.js",
       "commons-793f350ab5258449efa4.js.map"
     ],
-    "path---recipes-index": [
-      "path---recipes-index-a0e39f21c11f6a62c5ab.js",
-      "path---recipes-index-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "component---src-pages-design-index-js": [
       "component---src-pages-design-index-js-77f2096ef8ea2d1e17a7.js",
       "component---src-pages-design-index-js-77f2096ef8ea2d1e17a7.js.map"
     ],
-    "path---design-index": [
-      "path---design-index-a0e39f21c11f6a62c5ab.js",
-      "path---design-index-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "app": [
-      "app-7ea195333e344c357fce.js",
-      "app-7ea195333e344c357fce.js.map"
-    ],
-    "path---speaking-index": [
-      "path---speaking-index-a0e39f21c11f6a62c5ab.js",
-      "path---speaking-index-a0e39f21c11f6a62c5ab.js.map"
+      "app-553ae018331289b63723.js",
+      "app-553ae018331289b63723.js.map"
     ],
     "component---src-pages-writing-index-js": [
       "component---src-pages-writing-index-js-497e8d6c4b27787113d9.js",
@@ -103,10 +79,6 @@
     "component---src-pages-open-source-index-js": [
       "component---src-pages-open-source-index-js-d80f255906efdccc88a6.js",
       "component---src-pages-open-source-index-js-d80f255906efdccc88a6.js.map"
-    ],
-    "path---open-source-index": [
-      "path---open-source-index-a0e39f21c11f6a62c5ab.js",
-      "path---open-source-index-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
