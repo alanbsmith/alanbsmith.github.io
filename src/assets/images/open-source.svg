@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="430px" viewBox="0 0 330 430" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-26" transform="translate(15.000000, 15.000000)" stroke="#232323" stroke-width="30">
+            <rect id="Rectangle-10" x="0" y="0" width="300" height="400" rx="30"></rect>
+            <path d="M0,30.0024202 C0,13.4325411 13.4241986,0 30.0001915,0 L269.999809,0 C286.568457,0 300,13.4352962 300,30.0024202 L300,80 L0,80 L0,30.0024202 Z" id="Rectangle-10"></path>
+            <path d="M48,131 L88,131" id="Line" stroke-linecap="round"></path>
+            <path d="M68,184 L188,184" id="Line" stroke-linecap="round"></path>
+            <path d="M48,238 L88,238" id="Line" stroke-linecap="round"></path>
+            <path d="M48,291 L128,291" id="Line" stroke-linecap="round"></path>
+            <path d="M68,344 L228,344" id="Line" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
